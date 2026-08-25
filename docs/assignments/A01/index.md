@@ -56,12 +56,17 @@ Assumption: The handles and blades are assumed to act and stay rigid and not sig
 
 
 <img src="scissorspic1.jpg" width="500">
+
 Photo 1 - Handle Geometry:
 With a long handle and wide finger hole, the user is given sufficient leverage for the force application. The further length from the pivot to the hand enables the user to generate cutting force at the blades.
+
 <img src="scissorspic2.jpg" width="500">
+
 Photo 2 - Pivot and Blade Geometry:
 With the pivot, the two blades are made to rotate about one point. The pivot also holds the blades such that the cutting edges slide past each other creating a shearing action of the blade
+
 <img src="scissorspic3.jpg" width="500">
+
 Photo 3 - Scissors Overall Geometry:
 With the long handles, the blades are connected to the handles by way of the pivot, whereby the force applied by the user is transferred to the blades.
 
