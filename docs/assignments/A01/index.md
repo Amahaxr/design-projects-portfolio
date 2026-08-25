@@ -38,6 +38,8 @@ Fn = force applied at handles
 Lh = distance from the pivot to where the hand force is applied
 Fc = cutting force at blades
 Lc= distance from the pivot to where the material is being cut
+The longer the handle distance is the more cutting force is at the blades
+Assumption: The handles and blades are assumed to act and stay rigid and not significantly bend while cutting
 
 
 
