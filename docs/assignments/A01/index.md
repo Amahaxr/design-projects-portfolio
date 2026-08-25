@@ -24,10 +24,26 @@ Looking through Allister FSAE Chassis project, he clearly explains what his proj
 Evidence of reasoning:
 Allister has a solid engineering reasoning explaining why certain parts and testing methods were used in this chassis design. Using FEA to show how the chassis handles stress and deformation. He then shows how he implements a torsional stiffness test rig to compare his computer results to the actual chassis, which shows that his design was developed by testing and improving performance.
 Professional tone:
-Allister portfolio is professionally oriented since he sticks to describing the process of engineering, the software that was included and the outcome of the the project. He uses very technical terms (such as CAD, FEA, torsional stiffness, and fabrication) but still keeps the descriptions clear and understanding. Also includes all important information on how to contact him and about his engineering journey,
+Allister portfolio is professionally oriented since he sticks to describing the process of engineering, the software that was included and the outcome of the the project. He uses very technical terms (such as CAD, FEA, torsional stiffness, and fabrication) but still keeps the descriptions clear and understanding. Also includes all important information on how to contact him and about his engineering journey.
+
+Task B - Product Analysis
+Product: Scissors
+Primary Function:
+The main purpose of scissors is to transmit the force applied at the handles into cutting effort at the blades. The blades turn about the pivot point and cut the substance that is placed between them. 
+Governing Model:
+Scissors consist of two levers rotating about one common pivot. The conventional scissors are constructed based on the principle of moments about the pivot point.
+FhLh=FcLc
+Where:
+Fn = force applied at handles 
+Lh = distance from the pivot to where the hand force is applied
+Fc = cutting force at blades
+Lc= distance from the pivot to where the material is being cut
+
+
 
 
 ## Decide
+
 
 
 ## Communicate
