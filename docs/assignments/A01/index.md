@@ -59,6 +59,11 @@ Alternative solutions - The functions of a paper cutter and a rotary cutter are 
 Design Decision - One of the design decisions made in the patent is to incorporate the use of angles around the pivot point to make sure the two blades are always in touch during opening and closing of the scissors
 
 ## Decide
+Homepage Identity - The homepage should make it clear right away that the portfolio represents a collection of my engineering work and the steps taken in the design process. Someone visiting the site should know what kind of work it is and how the portfolio is laid out so that they could find specific assignments. The layout of the homepage should be straightforward and allow an instructor or an employer to get a good sense of the purpose of the portfolio
+
+Customizing Intentionally - One modification that I introduced in the template is putting my name in the title of the homepage. This immediately helps identify the person to whom the portfolio belongs. In the original template, there was just the course title, but nothing that identified the student. My addition has thus made the homepage more useful for an audience that sees the portfolio for the first time.
+
+Standard for Documentation - For every assignment, I will thoroughly describe my process of engineering and provide the relevant calculations or evidence so that any other engineering student is able to comprehend how I arrived at my conclusions. 
 
 
 
