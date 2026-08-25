@@ -85,16 +85,5 @@ Standard for Documentation - For every assignment, I will thoroughly describe my
 
 
 
-## Communicate
-Amaha Martin
 
-Professional Introduction:
-  I am a mechanical engineering student, and I have always had a passion for design, manufacturing, problem solving and application of technology to improve efficiency of systems. My passion for engineering has become even stronger after attending the National Student Leadership Conference for Engineering held at Duke University in August 2023. Prior to attending this event, I knew I enjoyed mathematics and would like to apply my knowledge of this subject in practice in order to design and build certain items such as vehicles or develop technology that could help use renewable natural resources more efficiently. However, I did not have clear understanding of the scope of engineering area and skills that I would have to possess in order to succeed. 
-  At this conference, I was introduced to some of the aspects of engineering such as circuit boards, energy conversion, and the engineering design process itself. Moreover, I had to collaborate with other students and participate in team-based project. All these activities made me realize that engineering is not only about solving equations; it also involves application of your technical knowledge in order to create something useful. This experience helped me to get inspired to learn more about design, testing, improvement and manufacturing of a product.
-  From that moment on, I continued to develop my interest in mechanical engineering and such aspects of it as design and energy. In particular, I am interested in the work related to mechanical systems, manufacturing and efficient technologies. As my education in the field of engineering continues, I aspire to become an engineer that will be able to analyze the problem, develop the design and provide clear explanation for all the decisions made. 
-
-What does it mean to defend an engineering decision:
-  A justification for engineering decisions means being able to give a reason for choosing a particular design, material, formula, or technique based on engineering rationale rather than basing your reason on intuition or the fact that you felt it was the best choice. You can justify your decisions through calculations, tests, requirements, data or engineering concepts. At this point, I have a fundamental understanding of what it means to defend an engineering decision, but I am still in the process of learning how to really prove and defend by decisions with solid technical rationale.
-
-Time spent: 5 hours
 
