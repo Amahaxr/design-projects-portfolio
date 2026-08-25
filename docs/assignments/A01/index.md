@@ -68,4 +68,12 @@ Standard for Documentation - For every assignment, I will thoroughly describe my
 
 
 ## Communicate
+Amaha Martin
+
+Professional Introduction:
+
+What does it mean to defend an engineering decision:
+A justification for engineering decisions means being able to give a reason for choosing a particular design, material, formula, or technique based on engineering rationale rather than basing your reason on intuition or the fact that you felt it was the best choice. You can justify your decisions through calculations, tests, requirements, data or engineering concepts. At this point, I have a fundamental understanding of what it means to defend an engineering decision, but I am still in the process of learning how to really prove and defend by decisions with solid technical rationale.
+
+Time spent: 
 
