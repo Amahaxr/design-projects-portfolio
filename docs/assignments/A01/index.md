@@ -51,6 +51,7 @@ With the pivot, the two blades are made to rotate about one point. The pivot als
 <img src="scissorspic3.jpg" width="500">
 Photo 3 - Scissors Overall Geometry:
 With the long handles, the blades are connected to the handles by way of the pivot, whereby the force applied by the user is transferred to the blades.
+
 Patent Research:
 Patent Number - US3376641A
 Inventor - Andrew C Usborne
