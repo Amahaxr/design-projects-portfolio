@@ -5,3 +5,4 @@ For this particular assignment, I have done parametric modeling of an aluminum b
 
 Design/Calculations
 
+![Design Calculations](calculations.png)
