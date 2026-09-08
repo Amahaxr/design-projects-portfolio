@@ -21,6 +21,11 @@ The area and length of the beam have been defined using an equation such that an
 
 Cad Modeling
 
-circle-sketch.png
+![Circular Cross-Section](circle-sketch.png)
 
 The circular cross-sectional area of the bar was created in SolidWorks with a diameter of 0.30 inches. This particular dimension is associated with the global parameter used in parametric model.
+
+![Final CAD Model](final-cad-bar.png)
+
+Once the circle was drawn, the bar was then extruded using the dimension of 15.90 in. The resulting object became the cad model used in the finite element analysis
+
