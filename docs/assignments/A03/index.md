@@ -1,9 +1,9 @@
 # A3 – Parametric and FEA
-Introduction
+## Introduction
 
 For this particular assignment, I have done parametric modeling of an aluminum bar in SolidWorks and have also performed the validation through finite element analysis in SolidWorks. This aluminum bar has been designed such that its maximum axial deflection is 0.009 in under axial tensile loading of 400 lbf
 
-Design/Calculations
+## Design/Calculations
 
 ![Design Calculations](calculations.png)
 
@@ -11,7 +11,7 @@ In my first design, I chose a round bar with a diameter of 0.30 inches. Using th
 
 When I used the direct Tension deflection formula with 400 lbf load, modulus of elasticity of 10 *10^6 psi, and max deflection of 0.009 inches, the length of the bar comes to be 15.90 inches
 
-Material/Global Equations
+## Material/Global Equations
 
 ![Global Equations](global-equations.png)
 
@@ -19,7 +19,7 @@ After the analysis had been completed, the data was inputted into SolidWorks as 
 
 The area and length of the beam have been defined using an equation such that any change in the design parameters will be reflected in the model.
 
-Cad Modeling
+## Cad Modeling
 
 ![Circular Cross-Section](circle-sketch.png)
 
@@ -29,7 +29,7 @@ The circular cross-sectional area of the bar was created in SolidWorks with a di
 
 Once the circle was drawn, the bar was then extruded using the dimension of 15.90 in. The resulting object became the cad model used in the finite element analysis
 
-Simulation/FEA
+## Simulation/FEA
 
 ![FEA Deflection Map](fea-deflection.png)
 
@@ -43,7 +43,7 @@ I then checked the results of the von Mises stress through FEA. The maximum stre
 
 As per the assignment details, the yield strength of the aluminum material is 40ksi.
 
-Safety Factor:
+## Safety Factor:
 
 ![Safety Factor Calculation](safety-factor.png)
 
@@ -57,7 +57,7 @@ Factor of Safety = 1.80
 
 The maximum stress being less than the yield strength means that safety has been achieved with the factor of safety of 1.80.
 
-Design Reflection:
+## Design Reflection:
 
 The manual axial deflection was 0.0090 in whereas the FEA gave 0.00910 in.
 
@@ -77,7 +77,7 @@ Peak stress = Kt * Nominal Stress
 
 This value will be used to compare the strength with the 40 ksi yield strength.
 
-Lesson Learned:
+## Lesson Learned:
 
 In this exercise, I got to learn how to make use of global variables and equations in SolidWorks for making a parametric model. I also learned how to apply materials, fixtures, and loads, conduct a FEA, and how to understand the results of displacements and von Mises stress.
 
@@ -85,6 +85,6 @@ The problem I faced during this exercise is that SolidWorks crashed after I had 
 
 Total time spent: 5.5 hours
 
-CAD File: 
+## CAD File: 
 
 
