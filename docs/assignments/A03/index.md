@@ -43,3 +43,48 @@ I then checked the results of the von Mises stress through FEA. The maximum stre
 
 As per the assignment details, the yield strength of the aluminum material is 40ksi.
 
+Safety Factor:
+
+![Safety Factor Calculation](safety-factor.png)
+
+The Von Mises Stress Maximum value was obtained from the results of the FEA simulation and compared to the yield strength of the Aluminum material in order to get the factor of safety.
+
+40ksi>22.8ksi
+
+Factor of safety = 40/22.28
+
+Factor of Safety = 1.80
+
+The maximum stress being less than the yield strength means that safety has been achieved with the factor of safety of 1.80.
+
+Design Reflection:
+
+The manual axial deflection was 0.0090 in whereas the FEA gave 0.00910 in.
+
+The percentage difference was approximately
+
+Percent Difference = (0.00910 - 0.00900) / 0.00900 * 100
+
+Percent Difference = 1.11%
+
+These values are quite close since the bar has a uniform circular section and is subjected to axial loading. There are no significant stress concentrations on the original bar; hence, both solutions should yield similar values.
+
+I would trust the analytical solution a bit more for this problem due to the simple geometry of the loading since the analytical solution uses the direct tension equation. However, FEA is still valuable as it verifies the analytical solution and shows the full stress and deformation fields of the bar.
+
+For the new pin-hole portion, the peak stress could be determined by multiplying the nominal stress by the stress concentration factor as follows:
+
+Peak stress = Kt * Nominal Stress
+
+This value will be used to compare the strength with the 40 ksi yield strength.
+
+Lesson Learned:
+
+In this exercise, I got to learn how to make use of global variables and equations in SolidWorks for making a parametric model. I also learned how to apply materials, fixtures, and loads, conduct a FEA, and how to understand the results of displacements and von Mises stress.
+
+The problem I faced during this exercise is that SolidWorks crashed after I had completed my simulation. Alough I had taken screenshots of my results, I did not have access to my simulation study.
+
+Total time spent: 5.5 hours
+
+CAD File: 
+
+
