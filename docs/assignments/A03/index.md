@@ -37,5 +37,9 @@ One end of the beam was clamped while the other end was subjected to a tensile f
 
 The maximum displacement value from the FEA is 0.2312mm, which is equivalent to 0.00910in. The displacement is almost equal to the maximum displacement of 0.009 in that I assumed during my manual calculations. 
 
+![FEA Stress Plot](fea-stress.png)
 
+I then checked the results of the von Mises stress through FEA. The maximum stress value in the bar is about 22.28ksi.
+
+As per the assignment details, the yield strength of the aluminum material is 40ksi.
 
