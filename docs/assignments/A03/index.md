@@ -31,5 +31,11 @@ Once the circle was drawn, the bar was then extruded using the dimension of 15.9
 
 Simulation/FEA
 
+![FEA Deflection Map](fea-deflection.png)
+
+One end of the beam was clamped while the other end was subjected to a tensile force of 400lbf. After performing the analysis, I generated the displacement plot given below.
+
+The maximum displacement value from the FEA is 0.2312mm, which is equivalent to 0.00910in. The displacement is almost equal to the maximum displacement of 0.009 in that I assumed during my manual calculations. 
+
 
 
