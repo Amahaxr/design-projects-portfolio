@@ -18,3 +18,9 @@ Material/Global Equations
 After the analysis had been completed, the data was inputted into SolidWorks as global variables. These variables are as follows: Load force, Young's modulus, maximum deflection, diameter, yield strength, area, and beam length.
 
 The area and length of the beam have been defined using an equation such that any change in the design parameters will be reflected in the model.
+
+Cad Modeling
+
+circle-sketch.png
+
+The circular cross-sectional area of the bar was created in SolidWorks with a diameter of 0.30 inches. This particular dimension is associated with the global parameter used in parametric model.
