@@ -29,3 +29,7 @@ The circular cross-sectional area of the bar was created in SolidWorks with a di
 
 Once the circle was drawn, the bar was then extruded using the dimension of 15.90 in. The resulting object became the cad model used in the finite element analysis
 
+Simulation/FEA
+
+
+
