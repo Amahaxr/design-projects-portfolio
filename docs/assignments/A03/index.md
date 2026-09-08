@@ -87,4 +87,6 @@ Total time spent: 5.5 hours
 
 ## CAD File: 
 
+[Download CAD File](A3_Parametric_Bar.SLDPRT)
+
 
