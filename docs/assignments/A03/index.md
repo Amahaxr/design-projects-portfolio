@@ -12,3 +12,9 @@ In my first design, I chose a round bar with a diameter of 0.30 inches. Using th
 When I used the direct Tension deflection formula with 400 lbf load, modulus of elasticity of 10 *10^6 psi, and max deflection of 0.009 inches, the length of the bar comes to be 15.90 inches
 
 Material/Global Equations
+
+![Global Equations](global-equations.png)
+
+After the analysis had been completed, the data was inputted into SolidWorks as global variables. These variables are as follows: Load force, Young's modulus, maximum deflection, diameter, yield strength, area, and beam length.
+
+The area and length of the beam have been defined using an equation such that any change in the design parameters will be reflected in the model.
