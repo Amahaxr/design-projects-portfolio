@@ -20,4 +20,11 @@ For the beam calculations, the material-property values used were
 Feature 1:
 For Feature 1, I used a width and length of 40mm. The 300N load acting through the 18mm shaft created a moment of 5400N*mm. I first identified my knows and unknowns and created a free-body diagram of the feature.
 
+![Part 1A Knowns and Unknowns](part1a.png)
+
+
+
+
+
+
 
