@@ -24,6 +24,7 @@ For Feature 1, I used a width and length of 40mm. The 300N load acting through t
 
 ![Part 2A Knowns and Unknowns](part2a.png)
 
+I then used the beam bending equations to solve for the required thickness based on both maximum deflection and bending stress. The larger required thickness was used for the final design.
 
 
 
