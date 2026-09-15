@@ -26,6 +26,17 @@ For Feature 1, I used a width and length of 40mm. The 300N load acting through t
 
 I then used the beam bending equations to solve for the required thickness based on both maximum deflection and bending stress. The larger required thickness was used for the final design.
 
+![Part 3A Knowns and Unknowns](part3a.png)
+
+![Part 4A Knowns and Unknowns](part4a.png)
+
+The calculations showed that deflection controlled the design, so I selected a final thickness of 11mm for Feature 1.
+
+![Part 5A Knowns and Unknowns](part5a.png)
+
+
+
+
 
 
 
