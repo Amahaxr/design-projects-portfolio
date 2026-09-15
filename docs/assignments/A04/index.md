@@ -34,6 +34,30 @@ The calculations showed that deflection controlled the design, so I selected a f
 
 ![Part 5A Knowns and Unknowns](part5a.png)
 
+Feature 2:
+For feature 2, I used the motor length and the thickenss of Feature 1 to determine the required length of the wall-mounted section. I then calculated the moment created by the 300N load and listed the knowns and unkonws for the design.
+
+![Part 6A Knowns and Unknowns](part6a.png)
+
+I created a free body diagram showing the loading and support conditions for feature 2.
+
+![Part 7A Knowns and Unknowns](part7a.png)
+
+I used the same beam bending approach as Feature 1 and solved for the required thickness using both deflection and stress. The deflection calculation controlled the design, so I selected a final thickness of 32mm for Feature 2.
+
+![Part 8A Knowns and Unknowns](part8a.png)
+
+
+![Part 9A Knowns and Unknowns](part9a.png)
+
+Isometric Sketch:
+
+I created and Isometric sketch of the motor mount using the dimensions calculated for Feature 1 and Feature 2. This sketch was used as a reference before creating the model in SolidWorks. 
+
+![Part 10 Knowns and Unknowns](part10.png)
+
+
+
 
 
 
