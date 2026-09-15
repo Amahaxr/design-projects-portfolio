@@ -77,6 +77,17 @@ Next, I added the second feature to create the basic L-shaped motor mount, The t
 
 ![Part 14A Knowns and Unknowns](part14a.png)
 
+Design Progress
+
+During the modeling process, SOLIDWORKS crashed and some of my progress had to be rebuilt. I was able to complete the main parametric geometry of the motor mount, but I did not finish all of the mounting holes and support features.
+
+Cad File
+
+s
+
+Lesson Learned 
+
+This assignment helped me understand how engineering calculation can be used to determine dimensions for CAD model, I also improved my skills on global variables to create a parametric model and the importance of saving frequently while working in SOLIDWORKS.
 
 
 
