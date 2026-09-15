@@ -22,6 +22,9 @@ For Feature 1, I used a width and length of 40mm. The 300N load acting through t
 
 ![Part 1A Knowns and Unknowns](part1a.png)
 
+![Part 2A Knowns and Unknowns](part2a.png)
+
+
 
 
 
