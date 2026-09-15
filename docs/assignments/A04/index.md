@@ -67,3 +67,5 @@ I created and Isometric sketch of the motor mount using the dimensions calculate
 
 
 
+
+
