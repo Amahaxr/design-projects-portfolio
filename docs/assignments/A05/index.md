@@ -4,7 +4,6 @@
 Designing a bracket that will satisfy both the strength and stiffness requirments through stress analysis, deflection analysis, and free body diagram was the aim of this exercise.
 
 ## Analyze
-![Parts 1-2-3](parts-1-2-3.png)
 
 
 ## Lesson Learned
