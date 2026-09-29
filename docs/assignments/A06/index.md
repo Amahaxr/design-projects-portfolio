@@ -22,19 +22,19 @@ Feature B was added to join Feature A to the upper part of the bracket; its geom
 
 Then, the horizontal section was created to start forming the upper bracket. At that moment, I kept altering the dimensions of the design as needed.
 
-![Upper Bar Progress](upper-bar-progress.png)
+![Upper Bracket Features](a6-upper-features.png)
 
 After that, the upper features were created to form the bracket structure around them. The dimensions were adjusted from the previous A5 calculations as required to make the final geometry more pratical.
 
 ## Completed Bracket
 
-![Completed Bracket](completed-bracket.png)
+![Completed Bracket](a6-completed-bracket.png)
 
 The resulting bracket consists of Features A through E and represents the whole structure in one solid model. During the CAD, several dimensions were altered from the initial A5 values to create proper connections between all features and make the final geometry more accurate.
 
 ## Multiview CAD Drawing
 
-![Multiview Drawing](multiview-drawing.png)
+![Multiview CAD Drawing](a6-multiview-drawing.png)
 
 The drawing provides several views of the final model as well as the dimensions of the bracket geometry.
 
@@ -44,8 +44,6 @@ The most significant lesson I learned during this assignment is that analytical 
 
 Therefore, several dimensions were adjusted during the creation of the CAD model. From this, I learned the importance of comparing the calculated data with the geometry of the CAD model. In addition, I learned about the advantages of the parametric modeling since it allowed me to make changes to the model by adjusting the dimensions using global variables and equations. In addition, another lesson I learned is about joining separate
 features together to form one solid body. This was done by changing the direction of the extrusion and by merging results. Another lesson learned during this assignment is the importance of creating a multiview drawing.
-
-Time spent:
 
 ## Lesson Learned
 
