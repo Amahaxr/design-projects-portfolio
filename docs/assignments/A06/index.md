@@ -28,7 +28,19 @@ The drawing provides several views of the final model as well as the dimensions 
 
 ## Reflections
 
+The most significant lesson I learned during this assignment is that analytical dimensions do not necessarily mean that a CAD model is going to behave as expected. when creating the CAD model of the bracket, I came to the realization that some of the dimensions provided in A5 do not fit properly with the geometry of the model.
+
+Therefore, several dimensions were adjusted during the creation of the CAD model. From this, I learned the importance of comparing the calculated data with the geometry of the CAD model. In addition, I learned about the advantages of the parametric modeling since it allowed me to make changes to the model by adjusting the dimensions using global variables and equations. In addition, another lesson I learned is about joining separate
+features together to form one solid body. This was done by changing the direction of the extrusion and by merging results. Another lesson learned during this assignment is the importance of creating a multiview drawing.
+
+Time spent:
+
 ## Lesson Learned
 
+Through this task, I was able to realize that the design process can include modification of previous assumptions and dimensions. While A5 calculations were a good start, the A6 CAD design revealed areas where changes needed to be made.
+
+The parametric CAD proved to be a valuable tool since modifications could be done faster due to controlling dimensions through variables.
+
 ## CAD File
+
 
