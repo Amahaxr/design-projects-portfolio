@@ -12,19 +12,29 @@ At the beginning, I created Feature A as the cylindrical part of the bracket, fo
 
 ## Feature B
 
+![Feature B Support](a6-feature-b.png)
+
 Feature B was added to join Feature A to the upper part of the bracket; its geometry being altered to stablish proper connections between these two parts in the final model.
 
 ## Upper Bracket Development
 
+![Upper Bracket Base](a6-upper-base.png)
+
 Then, the horizontal section was created to start forming the upper bracket. At that moment, I kept altering the dimensions of the design as needed.
+
+![Upper Bar Progress](upper-bar-progress.png)
 
 After that, the upper features were created to form the bracket structure around them. The dimensions were adjusted from the previous A5 calculations as required to make the final geometry more pratical.
 
 ## Completed Bracket
 
+![Completed Bracket](completed-bracket.png)
+
 The resulting bracket consists of Features A through E and represents the whole structure in one solid model. During the CAD, several dimensions were altered from the initial A5 values to create proper connections between all features and make the final geometry more accurate.
 
 ## Multiview CAD Drawing
+
+![Multiview Drawing](multiview-drawing.png)
 
 The drawing provides several views of the final model as well as the dimensions of the bracket geometry.
 
