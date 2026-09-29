@@ -53,4 +53,7 @@ The parametric CAD proved to be a valuable tool since modifications could be don
 
 ## CAD File
 
+[Download A6 Bracket Part](A6_Bracket_martin.SLDPRT)
+
+[Download A6 Bracket Drawing](A6_Bracket_Drawing_martin.SLDDRW)
 
