@@ -6,6 +6,8 @@ In this project, I have extended the design idea from A5 and made a full 3D mode
 
 ## Feature A
 
+![Feature A](a6-feature-a.png)
+
 At the beginning, I created Feature A as the cylindrical part of the bracket, forming its lower part and serving as the base for the following connecting feature.
 
 ## Feature B
