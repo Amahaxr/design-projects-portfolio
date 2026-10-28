@@ -109,3 +109,9 @@ The key problem was decreasing the stress concentrations and the effect of mesh 
 5 hours
 
 ## Cad File
+
+Design 1: [Download Original Bracket](A7_Bracket_martin.SLDPRT)
+
+Design 2: [Download Modified Bracket](A7_Bracket_martin_2.SLDPRT)
+
+Design 3: [Download Final Bracket](A7_Bracket_martin_3.SLDPRT)
