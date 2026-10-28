@@ -11,6 +11,8 @@ I used 6061 Aluminum Alloy with a 600 lbf downward force applied to the circular
 
 Fixed geometry
 
+![Screenshot 1 – Fixed Geometry](Screenshot1.png)
+
 Applied Force
 
 
