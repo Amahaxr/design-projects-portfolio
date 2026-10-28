@@ -15,6 +15,7 @@ Fixed geometry
 
 Applied Force
 
+![Screenshot 2 – Applied Force](Screenshot2.png)
 
 Design 1 - Original Bracket 
 
@@ -22,9 +23,15 @@ I created a static simulation and generated a mesh to analyze the original brack
 
 Initial Mesh 
 
+![Screenshot 3 – Initial Mesh](Screenshot3.png)
+
 Stress Analysis
 
+![Screenshot 4 – Design 1 Stress Analysis](Screenshot4.png)
+
 Mesh Details
+
+![Screenshot 5 – Mesh Details](Screenshot5.png)
 
 Design 2 - First Modification
 
@@ -32,7 +39,11 @@ I added a fillet near the lower circular connection to reduce the stress concent
 
 Modified Bracket
 
+![Screenshot 6 – Design 2 Geometry](Screenshot6.png)
+
 Stress Analysis
+
+![Screenshot 7 – Design 2 Stress Analysis](Screenshot7.png)
 
 Design 3 - Second Modification
 
@@ -40,12 +51,19 @@ I added another fillet near the upper connection to create a smoother transition
 
 Final Bracket Geometry
 
+![Screenshot 8 – Design 3 Geometry](Screenshot8.png)
+
 Stress Analysis
+
+![Screenshot 9 – Design 3 Stress Analysis](Screenshot9.png)
 
 Displacement Analysis
 
+![Screenshot 10 – Design 3 Displacement](Screenshot10.png)
+
 Factor of Safety
 
+![Screenshot 11 – Design 3 Factor of Safety](Screenshot11.png)
 
 ## Decide
 
