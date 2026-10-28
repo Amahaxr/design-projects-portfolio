@@ -1,3 +1,4 @@
+
 # A7 – [Topic]
 
 ## Objective
@@ -65,8 +66,29 @@ Factor of Safety
 
 ![Screenshot 11 – Design 3 Factor of Safety](Screenshot11.png)
 
+## Mesh Convergence
+
+I tested coarse, medium, and fine meshes to examine how refinement affected the results
+
+For Design 3:
+
+- Coarse: 799.5 MPa stress, 0.8902 mm displacement, 1,899 elements
+- Medium: 839.8 MPa stress, 0.9099 mm displacement, 7,912 elements
+- Fine: 892.1 MPa stress, 0.9200 mm displacement, 64,322 elements
+
+The medium-to-fine changes were approximately 6.23% for stress and 1.11% for displacement, meeting the 7% convergence criterion for Design 3.
+
 ## Decide
 
+I compared the three designs to evaluate the effects of adding fillets
+
+- Design 1: 1,048 MPa maximum stress, 1.277 mm displacement
+- Design 2: 816.4 MPa maximum stress, 1.100 mm displacement
+- Design 3: 892.1 MPa maximum stress, 0.9200 mm diplsacement
+
+The fillets improved the geometric transitions, but the minimum factor of safety remained below 1. Further design changes would be needed to safely support the applied load.
+
+These stress results were obtained using different mesh resolutions, so they are preliminary comparisions.
 
 ## Communicate
 
