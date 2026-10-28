@@ -92,3 +92,20 @@ These stress results were obtained using different mesh resolutions, so they are
 
 ## Communicate
 
+## Conclusion
+
+This task allowed me to learn about how stress concentrations can be detected by means of FEA and about how the designs can be analyzed mechanically.
+
+## Finite Element Analysis
+
+In FEA, a model is divided into small elements in order to find the stresses and displacements. Mesh refinement allows finding out if the obtained resuts are accurate enough.
+
+## Problems and What I Have Learned
+
+The key problem was decreasing the stress concentrations and the effect of mesh refinement on the results. I have learned that even though adding fillets will alter the stress distribution, it does not mean that the bracket will become sstructurally sound.
+
+## Time spent 
+
+5 hours
+
+## Cad File
