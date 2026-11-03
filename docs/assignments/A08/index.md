@@ -35,7 +35,25 @@ Created the input and output shafts and began the gearbox assembly. The complete
 
 ![SolidWorks CAD Progress](SolidWorks_CAD_Progress.png)
 
+Part 5 - Lessons Learned
 
+Throughout this assignment, I learned
+
+• How to calculate shaft stresses and determine if a shaft diameter is sufficient
+
+• How to evaluate journal bearings using pressure, velocity, and PV ratings
+
+• How to select appropriate bearings from McMaster-Carr
+
+• How bearing dimensions affect gearbox design
+
+• How to develop a two-piece gearbox housing concept
+
+• How to create shafts and begin an assembly in SolidWorks
+
+• The importance of checking component compatibility before completing a CAD assembly
+
+• How to troubleshoot difficulties when importing CAD components
 
 
 
