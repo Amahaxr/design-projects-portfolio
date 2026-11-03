@@ -7,33 +7,33 @@ Calculated the shaft stresses and evaluated the input and output shaft diameters
 
 <img src="Shaft_Design_1.png" width="450">
 
-![Shaft Design 2](Shaft_Design_2.png)
+<img src="Shaft_Design_2.png" width="450">
 
-![Shaft Design 3](Shaft_Design_3.png)
+<img src="Shaft_Design_3.png" width="450">
 
 Part 2 - Journal Bearing Design
 
 Selected journal bearings based on pressure, velocity, and PV limits. Calculated preliminary bearing wall thickness and selected components from McMaster-Carr.
 
-![Bearing Design 1](Bearing_Design_1.png)
+<img src="Bearing_Design_1.png" width="450">
 
-![Bearing Design 2](Bearing_Design_2.png)
+<img src="Bearing_Design_2.png" width="450">
 
-![Bearing Design 3](Bearing_Design_3.png)
+<img src="Bearing_Design_3.png" width="450">
 
-![Bearing Selection](Bearing_Selection.png)
+<img src="Bearing_Selection.png" width="450">
 
 Part 3 - Gearbox Housing Design
 
 Developed a two-piece gearbox housing concept with a removable top cover and bolted assembly.
 
-![Gearbox Housing Sketch](Gearbox_Housing_Sketch.png)
+<img src="Gearbox_Housing_Sketch.png" width="450">
 
 Part 4 - SolidWorks CAD
 
 Created the input and output shafts and began the gearbox assembly. The complete CAD model is still in progress.
 
-![SolidWorks CAD Progress](SolidWorks_CAD_Progress.png)
+<img src="SolidWorks_CAD_Progress.png" width="450">
 
 Part 5 - Lessons Learned
 
