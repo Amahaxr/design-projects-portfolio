@@ -5,7 +5,7 @@ Part 1 - Shaft Design
 
 Calculated the shaft stresses and evaluated the input and output shaft diameters.
 
-![Shaft Design 1](Shaft_Design_1.png)
+<img src="Shaft_Design_1.png" width="450">
 
 ![Shaft Design 2](Shaft_Design_2.png)
 
