@@ -47,6 +47,14 @@ The gears and shafts were positioned inside the bottom housing. Both housings ha
 
 <img src="SolidWorks_CAD_Progress.png" width="450">
 
+<img src="Gear_Shaft_Assembly.png" width="450">
+
+<img src="Bottom_Gearbox_Housing.png" width="450">
+
+<img src="Open_Gearbox_Assembly.png" width="450">
+
+<img src="Gearbox_Housing_Halves.png" width="450">
+
 Part 5 - Lessons Learned
 
 Throughout this assignment, I learned
