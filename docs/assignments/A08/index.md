@@ -31,7 +31,19 @@ Developed a two-piece gearbox housing concept with a removable top cover and bol
 
 Part 4 - SolidWorks CAD
 
-Created the input and output shafts and began the gearbox assembly. The complete CAD model is still in progress.
+Created a gearbox assembly in SolidWorks consisting of:
+
+• Input and output shafts 
+
+• Small input gear and large output gear
+
+• Bottom gearbox housing
+
+• Top gearbox housing
+
+The two housing halves were modeled separately with shaft openings and internal cavities to accommodate the gears.
+
+The gears and shafts were positioned inside the bottom housing. Both housings halves were created, although final housing alignment and clearance adjustments were not completed.
 
 <img src="SolidWorks_CAD_Progress.png" width="450">
 
