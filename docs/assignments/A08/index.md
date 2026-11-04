@@ -75,7 +75,25 @@ Throughout this assignment, I learned
 
 • How to troubleshoot difficulties when importing CAD components
 
+This assignment took me around 8 hours to complete
+
 ## CAD File
 
+[Gearbox Assembly](A8_Gearbox_Assembly.SLDASM)
+  
+[Bottom Housing](A8_Gearbox_Bottom.SLDPRT)
 
+[Top Housing](A8_Gearbox_Top.SLDPRT)
+
+ [Input Gear](A8_Input_Gear.SLDPRT)
+
+ [Output Gear](A8_Output_Gear.SLDPRT)
+
+[Input Shaft](A8_Input_Shaft.SLDPRT)
+
+[Output Shaft](A8_Output_Shaft.SLDPRT)
+
+[Input Bearing](A8_Input_Bearing.SLDPRT)
+
+[Output Bearing](A8_Output_Bearing.SLDPRT)
 
