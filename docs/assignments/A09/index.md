@@ -8,13 +8,20 @@ The current project will focus more on belt selection, shaft design, journal bea
 
 ## Analyze
 
-Part 1 - Belt Design 
+## Part 1 - Belt Design 
 
 Belt tension, pulley geometry, friction, and the minimum belt cross-section were considered. For evaluation the belt size, the tensile strength of the polyurethane rubber is 471 psi and a 5-inch pulley center distance is used. 
 
 This belt design is based on the desired circumferences using the McMaster-Carr round belt catoligue.
 
-Part 2 - Shaft Design
+![Screenshot 1 – Belt Design](A9_Belt_Design_1.png)
+
+![Screenshot 2 – Belt Design](A9_Belt_Design_2.png)
+
+![Screenshot 3 – Belt Design](A9_Belt_Design_3.png)
+
+
+## Part 2 - Shaft Design
 
 Shafts made of AISI 1060 harden steel were analyzed under combined bending and twisting forces. Bearing reactions, bending stress, torsional shear stress, minimum shaft diameter, and the actual safety factor were calculated.
 
