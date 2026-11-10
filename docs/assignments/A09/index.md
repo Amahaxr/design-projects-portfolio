@@ -35,7 +35,14 @@ Minimum cross-sectional area: 0.00951 in^2
 
 Safety factor calculation: 4.40
 
-Part 3 - Journal Bearing Design
+![Screenshot 4 – Shaft Design](A9_Shaft_Design_1.png)
+
+![Screenshot 5 – Shaft Design](A9_Shaft_Design_2.png)
+
+![Screenshot 6 – Shaft Design](A9_Shaft_Design_3.png)
+
+
+## Part 3 - Journal Bearing Design
 
 Evaluated porous bronze journal bearings using the bearing pressure, shaft surface velocity and PV number.
 
@@ -51,7 +58,14 @@ Surface velocity = 49.09 ft/min
 
 PV value = 3,927 psi times ft / min
 
-Part 4 - Frame Design
+![Screenshot 7 – Bearing Design](Bearing_Design_1.png)
+
+![Screenshot 8 – Bearing Design](Bearing_Design_2.png)
+
+![Screenshot 9 – Bearing Design](Bearing_Design_3.png)
+
+
+## Part 4 - Frame Design
 
 Designing a preliminary aluminum frame with two plates to align pulleys and support the shaft bearings.
 
@@ -70,6 +84,12 @@ Center distance of pulleys = 5.00 inches
 Evaluating nominal compressive stress, bearing hole pressure, axial deformation and safety factor.
 
 Frame design is a preliminary static analysis. Other parameters that need to be checked include bearing fits and connection fasteners.
+
+![Screenshot 10 – Frame Design](A9_Frame_Design_1.png)
+
+![Screenshot 11 – Frame Design](A9_Frame_Design_2.png)
+
+![Screenshot 12 – Frame Design](A9_Frame_Design_3.png)
 
 ## Decide
 
