@@ -116,3 +116,7 @@ Journal Bearing: The fact that bearing selection depends on more than just load 
 Frame Design: Material properties, dimensions of the frame, and position of the bearings are some of the factors that influence structural stresses and deformations in a frame. In addition, I have learned that checking only the nominal stress is not sufficient when verifying a frame with holes and mechanical connections.
 
 Overall, this assignment has helped me appreciate the consistency in belt, shaft, bearing and frame calculations.
+
+## Total Time spent:
+
+5.5 hours
