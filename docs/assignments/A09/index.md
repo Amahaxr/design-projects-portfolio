@@ -11,6 +11,13 @@ The current project will focus more on belt selection, shaft design, journal bea
 
 ## Decide
 
+Selected polyurethane round belt driven system at the speed of 1500 rpm, with 3 inches diameter pulleys at an interval of 5 inches.
+
+Selection of AISI 1060 steel for shafts based on the calculation of bending and torsional stresses. Porous bronze selected for journal bearings based on the calculations of pressure and PV values.
+
+Selected 6061 - T6 aluminum alloy for the frame due to its machinability and light weight in the application of a basic framework design.
+
+The design calculations meet the nominal strengths and bearing requirements of the selected material. More work needs to be done in order to validate the entire system.
 
 ## Communicate
 
