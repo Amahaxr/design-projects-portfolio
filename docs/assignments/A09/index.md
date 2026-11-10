@@ -28,6 +28,42 @@ Minimum cross-sectional area: 0.00951 in^2
 
 Safety factor calculation: 4.40
 
+Part 3 - Journal Bearing Design
+
+Evaluated porous bronze journal bearings using the bearing pressure, shaft surface velocity and PV number.
+
+Evaluation was done at the following operating conditions: rotational speed = 1500 rpm, shaft diameter = 0.125 inches and bearing length = 0.50 inches.
+
+Computed values:
+
+Bearing load = 5 lbs/bearing
+
+Bearing pressure = 80 psi
+
+Surface velocity = 49.09 ft/min
+
+PV value = 3,927 psi times ft / min
+
+Part 4 - Frame Design
+
+Designing a preliminary aluminum frame with two plates to align pulleys and support the shaft bearings.
+
+Selected dimensions:
+
+Material = 6061 - T6 aluminum
+
+Length of the plate = 9.00 inches
+
+Width of the plate = 1.00 inch
+
+Thickness of the plate = 0.50 inch 
+
+Center distance of pulleys = 5.00 inches
+
+Evaluating nominal compressive stress, bearing hole pressure, axial deformation and safety factor.
+
+Frame design is a preliminary static analysis. Other parameters that need to be checked include bearing fits and connection fasteners.
+
 ## Decide
 
 Selected polyurethane round belt driven system at the speed of 1500 rpm, with 3 inches diameter pulleys at an interval of 5 inches.
