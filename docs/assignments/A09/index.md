@@ -8,6 +8,25 @@ The current project will focus more on belt selection, shaft design, journal bea
 
 ## Analyze
 
+Part 1 - Belt Design 
+
+Belt tension, pulley geometry, friction, and the minimum belt cross-section were considered. For evaluation the belt size, the tensile strength of the polyurethane rubber is 471 psi and a 5-inch pulley center distance is used. 
+
+This belt design is based on the desired circumferences using the McMaster-Carr round belt catoligue.
+
+Part 2 - Shaft Design
+
+Shafts made of AISI 1060 harden steel were analyzed under combined bending and twisting forces. Bearing reactions, bending stress, torsional shear stress, minimum shaft diameter, and the actual safety factor were calculated.
+
+Calculation data:
+
+Minimum shaft diameter: 0.1100 in
+
+Shaft diameter chosen: 0.125 in
+
+Minimum cross-sectional area: 0.00951 in^2
+
+Safety factor calculation: 4.40
 
 ## Decide
 
